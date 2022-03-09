@@ -1,0 +1,2 @@
+rootProject.name = 'SAM3'
+include 'HelloWorldFunction', 'Mod2'

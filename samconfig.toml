@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "SAM3"
+s3_bucket = "satyalambdacode"
+s3_prefix = "SAM3"
+region = "us-west-1"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
